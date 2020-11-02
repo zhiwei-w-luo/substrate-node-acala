@@ -3,15 +3,16 @@
 # ACALA [ECOSYSTEM CHALLENGE] Enable NFT Support
 
 
-### Prof.of UI | Transfer Token To | Burn | Mint | Create
-- [x] <p align="center">
-    <a>
-        <img src="./data_burn_cr8_mint_tf_to_token.png" alt="Awesome-Burgerking"/>
-    </a>
-</p>
+HkToken is my first erc20 contract on the substrate 
 
-
-
+### running-node:
+![image](https://github.com/zhiwei-w-luo/substrate-node-acala/blob/main/images/running-node.png)
+### chain status
+![image](https://github.com/zhiwei-w-luo/substrate-node-acala/blob/main/images/chain-status.png)
+### nftAcala
+![image](https://github.com/zhiwei-w-luo/substrate-node-acala/blob/main/images/nftAcala.png)
+### mint
+![image](https://github.com/zhiwei-w-luo/substrate-node-acala/blob/main/images/mint.png)
 
 ### Plugins
 
@@ -22,5 +23,3 @@
 | Yarn | https://yarnpkg.com |
 | Rustup | https://rustup.rs |
 | Webpack |https://webpack.js.org |'
-
-* Ask [Agin DropDisco](https://twitter.com/agin_webdev) (A.K.A) Burgerking12 :)
